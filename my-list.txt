@@ -46,3 +46,4 @@ rr1---sn-gpv7kn7d.googlevideo.com
 tpc.googlesyndication.com
 googleads.g.doubleclick.net
 tpc.googlesyndication.com/simgad/11601450547262915246
+reigas-gamma.vercel.app/
